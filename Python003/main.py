@@ -5,3 +5,4 @@ while True:
         break
     else:
         print('Число должно быть > 0 и < 10')
+        
